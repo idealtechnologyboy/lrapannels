@@ -3,7 +3,7 @@ import { TaskPicker, type TaskType } from "@/components/TaskPicker";
 import { Upload, CheckCircle2, Loader2 } from "lucide-react";
 
 const APPS_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbyFPrEc6FCAlGumreFnPjKDHlBE4zJlri64PA8LIDYDUkST-lh0KE3B7owcPU-3oGXp/exec";
+  "https://script.google.com/macros/s/AKfycbzqxX0Lv6FW4esYCjtcXwa5wEaIOs4fW2QZ2aMPlxWJST945rwL7E12bQt9uhQmwkpT/exec";
 
 type Mode = "text" | "image";
 
